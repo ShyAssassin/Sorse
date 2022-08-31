@@ -1,9 +1,17 @@
+# Visual Studio
+.vs/
+out/
+build/
+
+# Visual Studio Code
+.vscode/*.log
+
+# CMake
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
 Testing
-Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
